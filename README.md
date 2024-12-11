@@ -18,18 +18,13 @@ Hier ist die Anleitung, um euch das Leben mit Trofia zu erleichtern:
 - Fütterung: Morgens und abends eine gut gefüllte rote Plastiktasse Trockenfutter.
 - Gudies und Kauknochen helfen, wenn sie unruhig wird. Sie zahnt noch.
 - **Sie ist stubenrein**, kann auch gut eine Nacht aushalten. Wenn sie muss, kommt sie uns normalerweise anstupsen oder an den Zehen knabbern.
-- **Wenn du isst**, bekommt sie nichts. Bitte zeitversetzt an ihrer Fütterungsstation füttern.
-- **Hochspringen/Hochsteigen** sollte sie nicht. Ignorieren oder wegwischen mit einem "Nein", und wenn sie unten ruhig ist, kann man Zuwendung geben.
 
 ---
 
 ## Beim Spazierengehen:
 - Immer an der Leine, wo es Autos gibt. Sie jagt Vögeln nach.
 - An ungefährlichen Orten kann sie nach eigenem Ermessen von der Leine gelassen werden.
-- Nach einem gemeinsamen Abend auf dem Sofa gehört man für Trofia zur Familie.
-- Kommandos wie "Warte", "Sentada" und "Nei" lassen sich gut an der Leine üben.
-- **Beim "Ven"**: Nur einmal rufen. Läuft sie los, Party machen ("Feini Trofia!").  
-  Falls sie nicht kommt: laut rufen oder pfeifen, dann entgegengesetzt laufen, in Büsche/Felder abbiegen oder sich verstecken.
+- Nach einem gemeinsamen Abend auf dem Sofa gehört man für Trofia zum Rudel.
 
 ---
 
@@ -39,6 +34,15 @@ Hier ist die Anleitung, um euch das Leben mit Trofia zu erleichtern:
 - Beim Spielen mit anderen Hunden kann sie in einen Hyperzustand kommen.  
   Dann hilft es, sie zu sich zu rufen, sitzen zu lassen und kurz zu beruhigen.
 - An der kurzen Leine ist sie ruhiger – das gilt auch für unruhige Momente im Haus.
+
+---
+
+## Erziehung:
+- **Hochspringen/Hochsteigen** sollte sie nicht. Ignorieren oder wegwischen mit einem "Nein", und wenn sie unten ruhig ist, kann man Zuwendung geben.
+- **Wenn du isst**, bekommt sie nichts. Bitte zeitversetzt an ihrer Fütterungsstation füttern.
+- Kommandos wie "Ven", "Warte", "Sentada" und "Nei" lassen sich gut an der Leine üben.
+- **Beim "Ven"**: Nur einmal rufen. Läuft sie los, Party machen ("Feini Trofia!").  
+  Falls sie nicht kommt: laut rufen oder pfeifen, wenn möglich entgegengesetzt laufen, in Büsche/Felder abbiegen oder sich verstecken.
 
 ---
 
