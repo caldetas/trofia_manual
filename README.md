@@ -1,4 +1,4 @@
-# Trofia Manual
+# <div style="text-align: center;">Trofia Manual</div>
 
 <div style="text-align: center;">
   <img src="./media/trofia.jpg"  alt="Trofia" style="width: 50%; height: auto;">
@@ -48,6 +48,8 @@ Hier ist die Anleitung, um euch das Leben mit Trofia zu erleichtern:
 
 ## Kommandos:
 
+<div style="text-align: center;">
+
 | **Kommando**  | **Deutsch**       | **Español**     | **Italiano**    |
 |---------------|-------------------|-----------------|-----------------|
 | Ven           | Komm              | Ven             | Vieni           |
@@ -62,3 +64,5 @@ Hier ist die Anleitung, um euch das Leben mit Trofia zu erleichtern:
 | Feini         | Brava             | Buena           | Brava           |
 | Pipi mache    | Pipi machen       | Hacer pipi      | Fare pipì       |
 | Popo mache    | Popo machen       | Hacer popó      | Fare popò       |
+
+</div>
