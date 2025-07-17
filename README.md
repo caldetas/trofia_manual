@@ -58,7 +58,7 @@ Hier ist die Anleitung, um euch das Leben mit Trofia zu erleichtern:
 ---
 ## Rituale
 - **Warten auf der Fussmatte** beim Heimkommen lassen wir sie auf der Fussmatte warten ("sentada, warte") und holen dann ein Tuch um die dreckigen Pfoten zu putzen bei Bedarf. Danach darf sie eintreten ("pasa").
-- **Apportieren** funktioniert ziemlich gut, sie gibt es einfach nicht mehr her. Tipp: ein zweiter Zapfen macht leichter. Bonus wenns in die Hand übergeben wird :)
+- **Warten auf das Essen** beim Füttern muss sie in einem andern Zimmer warten, hinter einer Türschwelle. Erst wenn du sagst sie darf, stürzt sie sich auf das Essen ("libre").
 - **Schwimmen** bei warmem Wetter und warmem Wasser geht sie dem Stock nach, insofern das Ufer wellenlos und langsam abfallend ist. Geht gut mit der Schleppleine.
 
 
