@@ -51,7 +51,7 @@ Hier ist die Anleitung, um euch das Leben mit Trofia zu erleichtern:
 
 ---
 ## Erziehung Aktuell:
-- **Laufen an der Seite/Hinterherlaufen** kann man beim Treppenlaufen oder auf schmalen wegen üben, ist nützlich zB. im vollen Zug.
+- **Laufen an der Seite/Hinterherlaufen** kann man beim Treppenlaufen oder auf schmalen Wegen üben, ist nützlich zB. im vollen Zug.
 - **Apportieren** funktioniert ziemlich gut, sie gibt es einfach nicht mehr her. Bonus wenns in die Hand übergeben wird :)
 - **Check** wenn sie Alarm gibt, kann man schnell schauen, "check" sagen und die Verantwortung für die Eindringlinge übernehmen.
 
