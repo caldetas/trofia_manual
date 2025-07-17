@@ -66,25 +66,26 @@ Hier ist die Anleitung, um euch das Leben mit Trofia zu erleichtern:
 
 <div style="text-align: center;">
 
-| **Kommando**    | **Deutsch**             | **Español**     | **Italiano**            |
-|-----------------|-------------------------|-----------------|-------------------------|
-| Ven             | Komm                    | Ven             | Vieni                   |
-| Warte           | Warten                  | Espera          | Aspetta                 |
-| Nei             | Nein                    | No              | No                      |
-| Sentada         | Sitz                    | Sentada         | Seduto                  |
-| Abajo           | Platz                   | Abajo           | Terra                   |
-| Siloh           | Aus                     | Fuera           | Fuori                   |
-| Rolle           | Rollen                  | Rueda           | Rotola                  |
-| Hopp            | Spring                  | Salta           | Salta                   |
-| Juntos          | Bei Fuß                 | Juntos          | Al passo                |
-| Feini           | Brava                   | Buena           | Brava                   |
-| Pipi mache      | Pipi machen             | Hacer pipi      | Fare pipì               |
-| Popo mache      | Popo machen             | Hacer popó      | Fare popò               |
-| Pasa            | Vorbeigehen / Eintreten | Pasa            | Passa / Entra           |
-| Ganggoluege     | Geh es dir anschauen    | Mira            | Vai a vedere            |
-| A la cama       | Geh ins Körbchen        | A la cama       | A cuccia                |
-| Check           | Ich prüfe das           | Revisa          | Controlla               |
-| Libre           | Du bist frei            | Libre           | Libera                  |
+| **Kommando** | **Deutsch**             | **Español** | **Italiano**  |
+|-------------|-------------------------|-------------|---------------|
+| Ven         | Komm                    | Ven         | Vieni         |
+| Warte       | Warten                  | Espera      | Aspetta       |
+| Nei         | Nein                    | No          | No            |
+| Sentada     | Sitz                    | Sentada     | Seduto        |
+| Abajo       | Platz                   | Abajo       | Terra         |
+| Siloh       | Aus                     | Fuera       | Fuori         |
+| Rolle       | Rollen                  | Rueda       | Rotola        |
+| Hopp        | Spring                  | Salta       | Salta         |
+| Juntos      | Bei Fuß                 | Juntos      | Al passo      |
+| Feini       | Brava                   | Buena       | Brava         |
+| Pipi mache  | Pipi machen             | Hacer pipi  | Fare pipì     |
+| Popo mache  | Popo machen             | Hacer popó  | Fare popò     |
+| Pasa        | Vorbeigehen / Eintreten | Pasa        | Passa / Entra |
+| Ganggoluege | Geh es dir anschauen    | Mira        | Vai a vedere  |
+| A la cama   | Geh ins Körbchen        | A la cama   | A cuccia      |
+| Check       | Ich prüfe das           | Revisa      | Controlla     |
+| Libre       | Du bist frei            | Libre       | Libera        |
+| Such        | Suche                   | Busca       | Cherca        |
 
 
 </div>
